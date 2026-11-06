@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Faizal 👋</h1>
+\<h1 align="center">Hi, I'm Mohamed Faizal 👋</h1>
 
 <h3 align="center">Integrated M.Tech CSE (Business Analytics) @ VIT Chennai | Building AI & Blockchain Systems</h3>
 
@@ -22,7 +22,7 @@
 - 🎓 Integrated M.Tech CSE (Business Analytics) student, School of Computer Science and Engineering, VIT (Vellore Institute of Technology)
 - 🔭 Currently building **ML/NLP pipelines**, **blockchain-anchored document systems**, and **healthcare AI** for coursework and research
 - 🌱 Learning: applied NLP, graph neural networks, and smart-contract-backed verification systems
-- ⚡ I like projects that combine a real backend (FastAPI/React) with a non-trivial ML or blockchain core — not just notebooks
+- ⚡ Full-stack experience across FastAPI/React backends, ML pipelines, and blockchain-anchored systems
 
 ---
 
@@ -37,7 +37,7 @@ A geospatially-gated legal document integrity platform with a maker-checker work
 `FastAPI` `React/TypeScript` `Solidity` `Hardhat` `web3.py` `Docker`
 
 #### 🏛️ [Government-Scheme AI](https://github.com/mohamed-faizal007/Government_Scheme-AI)
-Pipeline that converts 2,000+ Indian government scheme PDFs into schema-validated structured JSON (benefits, eligibility, application process, FAQs), plus **SchemeBot**, a multilingual (English/Hindi/Tamil) chatbot built on top of the extracted data.
+Pipeline to extract structured, schema-validated JSON (benefits, eligibility, application process, FAQs) from India's government scheme PDFs, plus **SchemeBot**, a multilingual (English/Hindi/Tamil) chatbot built on top of the extracted data.
 `Python` `NLP` `Sentence Embeddings` `Pydantic`
 
 #### 🧠 Stroke-Triage AI
