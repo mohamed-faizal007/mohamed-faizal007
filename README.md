@@ -18,7 +18,6 @@
 
 <p align="center">
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commit%22%2C%22Issue%22%2C%22PullReq%22%2C%22Review%22%2C%22Repo%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Activity%22%2C%22data%22%3A%5B75%2C35%2C50%2C20%2C40%5D%2C%22backgroundColor%22%3A%22rgba(240%2C180%2C41%2C0.35)%22%2C%22borderColor%22%3A%22rgb(240%2C180%2C41)%22%2C%22pointBackgroundColor%22%3A%22rgb(240%2C180%2C41)%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22beginAtZero%22%3Atrue%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23ffffff%22%2C%22fontSize%22%3A14%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(255%2C255%2C255%2C0.25)%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba(255%2C255%2C255%2C0.25)%22%7D%7D%7D%7D&backgroundColor=%230d1117&width=400&height=400" alt="Activity radar" width="340" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-faizal007&layout=donut&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" width="340" />
 </p>
 
 ---
@@ -80,14 +79,6 @@ AI system for stroke triage on the ISLES'24 CT dataset, combining a Circle-of-Wi
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-faizal007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-faizal007&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamed-faizal007&style=for-the-badge&color=blue" alt="Profile views" />
