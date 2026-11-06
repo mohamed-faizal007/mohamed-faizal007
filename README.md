@@ -28,11 +28,11 @@
 
 ### 🚀 Featured Projects
 
-#### 🔗 [ProofChain](https://github.com/mohamed-faizal007/ProofChain)
+#### ⛓️ [ProofChain](https://github.com/mohamed-faizal007/ProofChain)
 Blockchain-anchored framework for verifiable document provenance and AI-assisted tamper localization in PDFs — SHA-256 hierarchical hashing, Merkle trees, blockchain anchoring, versioning, and NLP-based change classification.
 `React` `FastAPI` `MongoDB` `AWS S3` `Blockchain`
 
-#### 🗺️ [GeoLegalVault](https://github.com/mohamed-faizal007/GeoLegalVault)
+#### 🔐 [GeoLegalVault](https://github.com/mohamed-faizal007/GeoLegalVault)
 A geospatially-gated legal document integrity platform with a maker-checker workflow, GPS geofencing, and on-chain anchoring (Sepolia testnet) to make document approval tamper-evident.
 `FastAPI` `React/TypeScript` `Solidity` `Hardhat` `web3.py` `Docker`
 
@@ -40,7 +40,7 @@ A geospatially-gated legal document integrity platform with a maker-checker work
 Pipeline that converts 2,000+ Indian government scheme PDFs into schema-validated structured JSON (benefits, eligibility, application process, FAQs), plus **SchemeBot**, a multilingual (English/Hindi/Tamil) chatbot built on top of the extracted data.
 `Python` `NLP` `Sentence Embeddings` `Pydantic`
 
-#### 🧬 Stroke-Triage AI
+#### 🧠 Stroke-Triage AI
 AI system for stroke triage on the ISLES'24 CT dataset, combining a Circle-of-Willis knowledge graph with a GNN to predict occlusion location and collateral grade alongside vessel segmentation. *(In progress — not yet public.)*
 `PyTorch` `Graph Neural Networks` `Medical Imaging`
 
@@ -71,14 +71,6 @@ AI system for stroke triage on the ISLES'24 CT dataset, combining a Circle-of-Wi
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-faizal007&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
