@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-faizal-86a539293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohamedfaizals004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mohamed-faizal007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -14,10 +13,6 @@
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Commit%22%2C%22Issue%22%2C%22PullReq%22%2C%22Review%22%2C%22Repo%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Activity%22%2C%22data%22%3A%5B75%2C35%2C50%2C20%2C40%5D%2C%22backgroundColor%22%3A%22rgba(240%2C180%2C41%2C0.35)%22%2C%22borderColor%22%3A%22rgb(240%2C180%2C41)%22%2C%22pointBackgroundColor%22%3A%22rgb(240%2C180%2C41)%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%2C%22beginAtZero%22%3Atrue%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23ffffff%22%2C%22fontSize%22%3A14%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba(255%2C255%2C255%2C0.25)%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba(255%2C255%2C255%2C0.25)%22%7D%7D%7D%7D&backgroundColor=%230d1117&width=400&height=400" alt="Activity radar" width="340" />
 </p>
 
 ---
@@ -76,6 +71,14 @@ AI system for stroke triage on the ISLES'24 CT dataset, combining a Circle-of-Wi
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-faizal007&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
