@@ -1,4 +1,4 @@
-\<h1 align="center">Hi, I'm Mohamed Faizal 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Faizal </h1>
 
 <h3 align="center">Integrated M.Tech CSE (Business Analytics) @ VIT Chennai | Building AI & Blockchain Systems</h3>
 
