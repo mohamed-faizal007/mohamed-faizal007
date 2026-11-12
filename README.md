@@ -28,6 +28,10 @@
 
 ### 🚀 Featured Projects
 
+#### 🔮 [Omen](https://github.com/Rohan-Julius/Local-OMEN)
+Local, agentic code reviewer that learns the *mechanism* behind a team's past incidents — from postmortems or raw git history — then flags new code set up to fail the same way, with cited evidence. Runs entirely on-device on Gemma via Ollama, so source code never leaves the machine. *Team project — I built the judgment half of the scan pipeline: the Triage, Investigator and Adjudicator agents, the RoleRunner abstraction and their test suites.*
+`LLM Agents` `RAG` `Ollama` `Gemma` `Google ADK` `ChromaDB` `Python`
+
 #### ⛓️ [ProofChain](https://github.com/mohamed-faizal007/ProofChain)
 Blockchain-anchored framework for verifiable document provenance and AI-assisted tamper localization in PDFs — SHA-256 hierarchical hashing, Merkle trees, blockchain anchoring, versioning, and NLP-based change classification.
 `React` `FastAPI` `MongoDB` `AWS S3` `Blockchain`
@@ -65,9 +69,20 @@ AI system for stroke triage on the ISLES'24 CT dataset, combining a Circle-of-Wi
 </p>
 
 <p align="center">
+<b>Agentic AI / LLM</b><br/>
+<img src="https://img.shields.io/badge/LLM_Agents-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0F9D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+</p>
+
+<p align="center">
 <b>Backend / Infra</b><br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
